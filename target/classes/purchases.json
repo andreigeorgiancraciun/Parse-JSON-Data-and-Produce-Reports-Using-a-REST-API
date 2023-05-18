@@ -1,0 +1,27 @@
+[
+  {
+    "symbol": "IBM",
+    "purchasePrice": 151.21,
+    "purchaseDate": "2018-09-28"
+  },
+  {
+    "symbol": "BABA",
+    "purchasePrice": 103.94,
+    "purchaseDate": "2014-12-31"
+  },
+  {
+    "symbol": "MICR",
+    "purchasePrice": 4.3840,
+    "purchaseDate": "2016-02-29"
+  },
+  {
+    "symbol": "MELY",
+    "purchasePrice": 0.0027,
+    "purchaseDate": "2014-01-31"
+  },
+  {
+    "symbol": "AAA",
+    "purchasePrice": 24.95,
+    "purchaseDate": "2020-10-30"
+  }
+]
